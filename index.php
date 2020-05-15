@@ -19,7 +19,7 @@
         </p>
 
         <p>
-            The lenght is: <strong><?php echo strlen($text);?></strong>.
+            The length is: <strong><?php echo strlen($text);?></strong>.
         </p>
 
         <p>
