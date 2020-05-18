@@ -27,7 +27,7 @@
         </p>
 
         <p>
-            Now the each occurance of "search_word" is replaced by "***":<br><br>
+            Now each occurance of "search_word" is replaced by "***":<br><br>
             <?php echo str_replace($search_word, '***', $text); ?>
         </p>
     </main>
